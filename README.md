@@ -17,4 +17,7 @@ Using Scikit-learn and logistic regression, Decision Trees and Random Forests to
 **2) Cat-Dog Image classification:**
 Building a Convolutional Neural Network model to predict if the image gien to the model belongs to a dog or a cat.
 
+**3) Book Recommendation Engine using K-nearest Neighbors:**
+Using K-nearest neighbors (KNN) from scikit-learn the model suggests books similar with a given book. The Nearest Neighbors algorithm measures the distance to determine the “closeness” of instances.
+
 
