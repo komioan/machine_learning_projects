@@ -22,3 +22,6 @@ Using K-nearest neighbors (KNN) from scikit-learn the model suggests books simil
 
 **4) Health cost predictions using Regression algorithms:**
 Using a Feedforward NN (better) or Random Forests regression algorithm (less accurate, more effort needed in hyperparameters tuning) to train a model which predicts the health charges within an error less than 3500$  based on features of the customers (age,bmi index,gender,etc).
+
+**5) SMS text classification using NN:**
+Using 1D CNN (alternatively a RNN network using LSTM would work) to construct a model which classifies text messsages as spam (if they were related with some advertisement) or ham (messages received from friends,business, etc).
