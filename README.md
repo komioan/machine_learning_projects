@@ -10,6 +10,7 @@ Those courses were:
 **3) Machine Learning with Python (FreeCodeCamp)**
 
 The projects I worked on are briefly described below:
+
 **1) Airline Passengers Satisfaction (Classification problem):**
 Using Scikit-learn and logistic regression, Decision Trees and Random Forests to create different models that will predict the Satisfaction of the clients with their airline based on the importance of some parameters.
 
