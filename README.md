@@ -25,3 +25,6 @@ Using a Feedforward NN (better) or Random Forests regression algorithm (less acc
 
 **5) SMS text classification using NN:**
 Using 1D CNN (alternatively a RNN network using LSTM would work) to construct a model which classifies text messsages as spam (if they were related with some advertisement) or ham (messages received from friends,business, etc).
+
+**6) KMNIST CLassification using PyTorch:**
+In this project I emplyed the well-known KMNIST library and PyTorch to train a CNN based model which will accurately identifies the images category in KMNIST dataset. The model has been trained in GPU for computationally efficient training and a pipeline for transfering the data between the CPU adn GPU has been build.
