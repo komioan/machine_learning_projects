@@ -20,4 +20,5 @@ Building a Convolutional Neural Network model to predict if the image gien to th
 **3) Book Recommendation Engine using K-nearest Neighbors:**
 Using K-nearest neighbors (KNN) from scikit-learn the model suggests books similar with a given book. The Nearest Neighbors algorithm measures the distance to determine the “closeness” of instances.
 
-
+**4) Health cost predictions using Regression algorithms:**
+Using a Feedforward NN (better) or Random Forests regression (less accurate, more effort needed in hyperparametrs tuning) to train a model which predicts the health charges within an error less than 3500$  based on features of the customrers (age,bmi index,gender,etc).
